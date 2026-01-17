@@ -52,37 +52,60 @@
 
 ---
 
-## 📊 NEURAL LINK (Activity Stats)
+## 📊 NEURAL NETWORK & ENGINE METRICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=algolia&hide_border=true" width="48%" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=MR-ARKO-JANA&theme=dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=monokai&no-bg=true&margin-w=4" width="100%" />
+  <img width="48%" src="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=donut&theme=transparent&hide_border=true&title_color=00DFEE&text_color=ffffff" />
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=transparent&title_color=00DFEE&icon_color=FF0055&text_color=ffffff&hide_border=true" width="400px" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=transparent&currStreakNum=00DFEE&sideLabels=ffffff&stroke=00DFEE&hide_border=true" width="400px" /></td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ PROJECT FORGE (Advanced Showcase)
+<br/>
+
+<div align="center">
+<a href="https://github.com/MR-ARKO-JANA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=YOUR_BEST_REPO&theme=tokyonight&show_owner=true" align="left" width="45%" />
+</a>
+
+<a href="https://github.com/MR-ARKO-JANA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=YOUR_SECOND_BEST_REPO&theme=tokyonight&show_owner=true" align="right" width="45%" />
+</a>
+<br/><br/><br/><br/><br/><br/><br/> ---
+
+## 🏆 GLOBAL ACHIEVEMENTS
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=shades-of-purple&no-bg=true&column=4&margin-w=15" width="100%" />
 </p>
 
 ---
 
-## 📂 PROJECT ARCHIVE
-<div align="center">
-  
-| 🚀 Featured Project | 🛠️ Stack | 🔗 Link |
-| :--- | :---: | :--- |
-| **Full Stack E-Commerce** | Next.js, Stripe, NestJS | [View Code](https://github.com/MR-ARKO-JANA) |
-| **AI Image Processor** | Python, OpenCV, PyTorch | [View Code](https://github.com/MR-ARKO-JANA) |
-| **Real-time Chat Engine** | Socket.io, Redis, React | [View Code](https://github.com/MR-ARKO-JANA) |
-
-</div>
-
----
+## ⚡ SYSTEM STATUS: ONLINE
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
+</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="80%" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%">
 </p>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&icon=7&color=12" />
-  <br/>
-  <b>System established in 2024 | Built by Arko Jana</b>
+  <table>
+    <tr>
+      <td><img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&icon=7&color=12" /></td>
+      <td><b>Last Sync:</b> <i>Infinite Loop Detected</i></td>
+      <td><img src="https://img.shields.io/badge/Maintained%3F-Yes-00DFEE?style=flat-square" /></td>
+    </tr>
+  </table>
 </div>
