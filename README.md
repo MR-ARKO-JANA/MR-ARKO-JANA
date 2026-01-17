@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=ARKO%20JANA&fontSize=90&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20ARCHITECT%20|%20PROBLEM%20SOLVER%20EXTRAORDINAIRE&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARKO%20JANA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Full-Stack%20Architect&descSize=25&descAlignY=55" width="100%" />
 
   <br/>
 
