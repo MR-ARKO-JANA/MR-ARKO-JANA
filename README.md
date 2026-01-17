@@ -52,48 +52,70 @@
 
 ---
 
-## 📊 NEURAL NETWORK & ENGINE METRICS
+## 🧠 NEURAL NETWORK & ENGINE METRICS
+
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=MR-ARKO-JANA&theme=dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🏗️ PROJECT FORGE (Advanced Showcase)
-<br/>
+## 📊 CONTRIBUTION GRAPH (STABLE)
 
-<div align="center">
-<a href="https://github.com/MR-ARKO-JANA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=arkojana&theme=tokyonight" width="45%" />
-</a>
-<a href="https://github.com/MR-ARKO-JANA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=MR-ARKO-JANA&theme=tokyonight" width="45%" />
-</a>
-</div>
-
----
-
-## 🏆 GLOBAL ACHIEVEMENTS
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=tokyonight&no-bg=true&column=4" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-## ⚡ SYSTEM STATUS: ONLINE
+## 🏗️ PROJECT FORGE
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
+  <a href="https://github.com/MR-ARKO-JANA/arkojana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=arkojana&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/MR-ARKO-JANA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=MR-ARKO-JANA&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&icon=7&color=12" />
-</div>
+---
+
+## 🏆 ACHIEVEMENTS & BADGES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🛠️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,linux&theme=dark" />
+</p>
+
+---
+
+## ⚡ SYSTEM STATUS
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👁️ PROFILE VISITS
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</p>
+
+---
+
+<h3 align="center">🚀 Building the future with code & logic</h3>
