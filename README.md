@@ -33,10 +33,19 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=pride&hide_border=true&bg_color=0D1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 LIVE SYSTEM METRICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -52,7 +61,7 @@
 
 ---
 
-## 📊 CONTRIBUTION GRAPH (STABLE)
+## 📊 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
@@ -60,14 +69,14 @@
 
 ---
 
-## 🏗️ PROJECT FORGE
+## 🏗️ PROJECT FORGE (PINNED)
 
 <p align="center">
   <a href="https://github.com/MR-ARKO-JANA/arkojana">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=arkojana&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/MR-ARKO-JANA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=MR-ARKO-JANA&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MR-ARKO-JANA/modern-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=modern-calculator&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -81,7 +90,7 @@
 
 ---
 
-## 🛠️ TECH STACK
+## ⚙️ ALL TECHNOLOGIES
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,linux&theme=dark" />
