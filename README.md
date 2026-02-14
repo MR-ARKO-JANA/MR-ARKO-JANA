@@ -38,80 +38,72 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <h1>⚡ SYSTEM ARCHITECT: ARKO JANA ⚡</h1>
+  <p><strong>Full-Stack Engineer | AI Enthusiast | Performance Optimizer</strong></p>
 
-## 📈 LIVE SYSTEM METRICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Building+Scalable+Systems;Crafting+Modern+UX;Optimizing+Backends;Mastering+The+Tech+Stack" alt="Typing SVG" />
 
----
-
-## 🛠️ THE CORE TECH-MATRIX
-### ⚡ High-Frequency Frontend
-> ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛡️ Hard-Core Backend
-> ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧠 Intelligence Suite
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-## 📊 CONTRIBUTION ACTIVITY
+### 🛡️ OPERATING CAPABILITIES (TECH STACK)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
-</p>
-
----
-
-## 🏗️ PROJECT FORGE (PINNED)
-
-<p align="center">
-  <a href="https://github.com/MR-ARKO-JANA/arkojana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=arkojana&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MR-ARKO-JANA/modern-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MR-ARKO-JANA&repo=modern-calculator&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,nodejs,mongodb,postgres,py,pytorch,cpp,linux,docker,aws,git&theme=dark" />
+</div>
 
 ---
 
-## 🏆 ACHIEVEMENTS & BADGES
+### 📊 SYSTEM PERFORMANCE METRICS
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+### 🏗️ FEATURED DEPLOYMENTS (ENGINEERING MARVELS)
+
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| **[ArkoJana OS](https://github.com/MR-ARKO-JANA/arkojana)** | `Next.js` `Tailwind` | 🟢 Production Ready |
+| **[Modern Calculator](https://github.com/MR-ARKO-JANA/modern-calculator)** | `C++` `Math Logic` | 🟡 Optimization Phase |
+
+---
+
+### 🧠 INTELLIGENCE & CONTRIBUTIONS
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="90%" />
+</div>
+
+---
+
+### 🏆 TECHNICAL MILESTONES
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## ⚙️ ALL TECHNOLOGIES
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,linux&theme=dark" />
-</p>
-
----
-
-## ⚡ SYSTEM STATUS
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 👁️ PROFILE VISITS
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</p>
-
----
-
-<h3 align="center">🚀 Building the future with code & logic</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <br />
+  <code>v2.0.4 | Last System Update: 2026-02-14</code>
+  <br />
+  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&label=ACCESS_LOG&color=12&icon=5&pretty=true" />
+</div>
