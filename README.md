@@ -17,7 +17,10 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="30%" align="center">
+      <img src="./portrait.png" width="100%" alt="Portrait" />
+    </td>
+    <td width="70%">
       <pre>
 <b>User@ArkoJana:~$</b> init personal_data.sys
 <b>[STATUS]</b> Optimizing workflow...
@@ -32,17 +35,11 @@
         <a href="https://instagram.com/mr_arko_j99"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       </p>
     </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </td>
   </tr>
 </table>
 
----
-
-### 🖼️ VISUAL RENDER (ASCII Portrait)
 <p align="center">
-<img src="./portrait.png" width="100%" alt="Portrait" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
