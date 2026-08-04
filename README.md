@@ -38,8 +38,9 @@
   </tr>
 </table>
 
+<!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://<YOUR_VERCEL_DOMAIN>/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -72,10 +73,12 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
+        <!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
+        <img src="https://<YOUR_VERCEL_DOMAIN>/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
+        <!-- REPLACE WITH YOUR STREAK STATS DOMAIN HERE -->
+        <img src="https://<YOUR_STREAK_STATS_DOMAIN>/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
       </td>
     </tr>
   </table>
@@ -94,14 +97,16 @@
 
 ### 🧠 INTELLIGENCE & CONTRIBUTIONS
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
+  <!-- REPLACE WITH YOUR SUMMARY CARDS DOMAIN HERE -->
+  <img src="https://<YOUR_SUMMARY_CARDS_DOMAIN>/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
 ### 🏆 TECHNICAL MILESTONES
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <!-- REPLACE WITH YOUR TROPHY DOMAIN HERE -->
+  <img src="https://<YOUR_TROPHY_DOMAIN>/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
