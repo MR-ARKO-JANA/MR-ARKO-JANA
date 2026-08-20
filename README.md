@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="100%" />
-
   <br/> 
 
   <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
@@ -12,7 +10,7 @@
 
 ## 🛰️ SYSTEM DIAGNOSTIC (About Me)
 <p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <table border="0">
@@ -38,9 +36,8 @@
   </tr>
 </table>
 
-<!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
 <p align="center">
-  <img src="https://<YOUR_VERCEL_DOMAIN>/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -73,12 +70,10 @@
   <table border="0">
     <tr>
       <td>
-        <!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
-        <img src="https://<YOUR_VERCEL_DOMAIN>/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
       </td>
       <td>
-        <!-- REPLACE WITH YOUR STREAK STATS DOMAIN HERE -->
-        <img src="https://<YOUR_STREAK_STATS_DOMAIN>/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
       </td>
     </tr>
   </table>
@@ -97,16 +92,14 @@
 
 ### 🧠 INTELLIGENCE & CONTRIBUTIONS
 <div align="center">
-  <!-- REPLACE WITH YOUR SUMMARY CARDS DOMAIN HERE -->
-  <img src="https://<YOUR_SUMMARY_CARDS_DOMAIN>/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
 ### 🏆 TECHNICAL MILESTONES
 <div align="center">
-  <!-- REPLACE WITH YOUR TROPHY DOMAIN HERE -->
-  <img src="https://<YOUR_TROPHY_DOMAIN>/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -116,5 +109,5 @@
   <br />
   <code>v2.1.0 | Last System Sync: 2026-02-14</code>
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&label=ACCESS_LOG&color=7AA2F7&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=MR-ARKO-JANA&label=ACCESS_LOG&color=7AA2F7" />
 </div>
