@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARKO%20JANA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Full-Stack%20Architect&descSize=25&descAlignY=55" width="100%" />
+
   <br/> 
+
   <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/ENGINEER-AI%20%26%20ML-00DFEE?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-FFB800?style=for-the-badge&logo=github&logoColor=white" />
@@ -36,6 +38,11 @@
   </tr>
 </table>
 
+<!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
+<p align="center">
+  <img src="https://<YOUR_VERCEL_DOMAIN>/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
 ---
 
 <div align="center">
@@ -61,25 +68,9 @@
 
 ---
 
-### 📊 COMMAND CENTER DASHBOARD (GitSkins Widgets)
-<!-- GITSKINS SHOWCASE BANNER -->
+### 📊 REAL-TIME SYSTEM METRICS
 <div align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="860" />
-</div>
-
-<!-- GITSKINS PROFILE SIGNAL & PROJECTS (Side by Side) -->
-<!-- Replace these placeholders with your other GitSkins links when ready! -->
-<div align="center">
-  <img src="https://gitskins.com/api/YOUR_PROFILE_SIGNAL_URL_HERE" width="425" alt="Profile Signal" />
-  <img src="https://gitskins.com/api/YOUR_PROJECTS_URL_HERE" width="425" alt="Projects List" />
-</div>
-
----
-
-### 🧠 INTELLIGENCE & CONTRIBUTIONS (GitSkins Activity)
-<!-- GITSKINS TERMINAL & SPACE INVADERS CONTRIBUTIONS -->
-<div align="center">
-  <img src="image_c0c0aa.png" width="860" alt="GitHub Contribution Graphs" />
 </div>
 
 ---
@@ -90,6 +81,21 @@
 | **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
 | **[Driver Wellness IoT](https://github.com/MR-ARKO-JANA)** | `Python` `IoT` `AI` | 🟡 In Development |
 | **[3D-Web Particle System](https://github.com/MR-ARKO-JANA/3d-web)** | `Three.js` `MediaPipe` | 🟢 Production Ready |
+
+---
+
+### 🧠 INTELLIGENCE & CONTRIBUTIONS
+<div align="center">
+  <img src="image_c0c0aa.png" width="860" alt="GitHub Contribution Graphs" />
+</div>
+
+---
+
+### 🏆 TECHNICAL MILESTONES
+<div align="center">
+  <!-- REPLACE WITH YOUR TROPHY DOMAIN HERE -->
+  <img src="https://<YOUR_TROPHY_DOMAIN>/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
