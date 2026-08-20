@@ -1,23 +1,16 @@
 <div align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="100%" />
-  <br/>
-  <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my profile!</h2>
-  <br/> 
 
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/ENGINEER-AI%20%26%20ML-00DFEE?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-FFB800?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 ## 🛰️ SYSTEM DIAGNOSTIC (About Me)
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-<div align="center">
-  <img src="https://media.giphy.com/media/vgjcNYAEWSaXb1G1Hn/giphy.gif" width="120px">
-</div>
 
 <table border="0">
   <tr>
@@ -43,10 +36,10 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ARKO-JANA&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ARKO-JANA&theme=tokyonight" />
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=SYSTEM+DIAGNOSTIC+INIT...;Specializing+in+Scalable+Web;Mastering+Next.js+15+&+NestJS;Turning+Bugs+into+Solutions" alt="Typing SVG" />
@@ -62,47 +55,42 @@
   </p>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
-</div>
+---
 
 ### 🛡️ OPERATING CAPABILITIES (TECH STACK)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,nodejs,mongodb,postgres,py,pytorch,cpp,linux,docker,aws,git&theme=dark" />
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 ### 📊 REAL-TIME SYSTEM METRICS
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=synthwave" height="180em" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=tokyonight" height="180em" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=synthwave&hide_border=true&background=0D1117" height="180em" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 ### 🏗️ RECENT DEPLOYMENTS
-<div align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=MR-ARKO-JANA&theme=github-dark&style=aura" width="100%" />
-</div>
+| Project | Primary Stack | Status |
+| :--- | :--- | :--- |
+| **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
+| **[Driver Wellness IoT](https://github.com/MR-ARKO-JANA)** | `Python` `IoT` `AI` | 🟡 In Development |
+| **[3D-Web Particle System](https://github.com/MR-ARKO-JANA/3d-web)** | `Three.js` `MediaPipe` | 🟢 Production Ready |
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 ### 🧠 INTELLIGENCE & CONTRIBUTIONS
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
-  <br/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake.svg">
@@ -110,23 +98,19 @@
   </picture>
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 ### ⏳ PRODUCTIVE TIME
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ARKO-JANA&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ARKO-JANA&theme=tokyonight" />
 </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
   <br />
   <code>v2.1.0 | Last System Sync: 2026-02-14</code>
   <br />
   <img src="https://komarev.com/ghpvc/?username=MR-ARKO-JANA&label=ACCESS_LOG&color=7AA2F7" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" width="100%" alt="Footer" />
 </div>
