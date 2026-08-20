@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="image_c1256b.png" width="100%" alt="ARKO JANA - The Full-Stack Architect" />
+<img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="100%" />
+
+  <br/> 
+
+  <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENGINEER-AI%20%26%20ML-00DFEE?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-FFB800?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
@@ -24,13 +30,18 @@
       </pre>
       <br/>
       <p align="left">
-        <a href="https://linkedin.com/in/arko-jana-326941295"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+        <a href="https://linkedin.com/in/arkojana"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
         <a href="mailto:arkojana45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-        <a href="https://github.com/MR-ARKO-JANA"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+        <a href="https://instagram.com/mr_arko_j99"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       </p>
     </td>
   </tr>
 </table>
+
+<!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
+<p align="center">
+  <img src="https://<YOUR_VERCEL_DOMAIN>/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
 ---
 
@@ -40,51 +51,37 @@
   <h1>⚡ SYSTEM ARCHITECT: ARKO JANA ⚡</h1>
   
   <p><strong>Full-Stack Engineer | AI Enthusiast | Performance Optimizer</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/arko-jana-326941295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:arkojana45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/MR-ARKO-JANA"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
 ### 🛡️ OPERATING CAPABILITIES (TECH STACK)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,nodejs,mongodb,postgres,py,pytorch,cpp,linux,docker,aws,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,nodejs,mongodb,postgres,py,pytorch,cpp,linux,docker,aws,git&theme=dark" />
 </div>
 
 ---
 
 ### 📊 REAL-TIME SYSTEM METRICS
 <div align="center">
-  <!-- Aapka diya hua original Dashboard picture -->
-  <img src="image_c0c02b.png" width="100%" alt="Profile and Repository Stats" />
-</div>
-
----
-
-### 🧠 INTELLIGENCE & CONTRIBUTIONS
-<div align="center">
-  <!-- Aapka diya hua Space Invaders game aur terminal picture -->
-  <img src="image_c0c0aa.png" width="100%" alt="GitHub Contribution Graphs" />
-</div>
-
----
-
-### 🎮 GAMIFIED ACTIVITY (Snake Eating Contributions)
-<div align="center">
-  <!-- Yeh ek real-time working animation hai jo aapke commit history ko snake game banata hai -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🏆 TECHNICAL MILESTONES & TROPHIES
-<div align="center">
-  <!-- Live working GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=radical&no-frame=true&margin-w=15" alt="Arko's Trophies" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
+        <img src="https://<YOUR_VERCEL_DOMAIN>/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
+      </td>
+      <td>
+        <!-- REPLACE WITH YOUR STREAK STATS DOMAIN HERE -->
+        <img src="https://<YOUR_STREAK_STATS_DOMAIN>/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -92,17 +89,32 @@
 ### 🏗️ RECENT DEPLOYMENTS
 | Project | Primary Stack | Status |
 | :--- | :--- | :--- |
-| **[NyayaSahayak (AI Paralegal)](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
-| **[NearHelp (Emergency App)](https://github.com/MR-ARKO-JANA)** | `Node.js` `Geo-Spatial` | 🟢 Active |
-| **[AI Resume Screening](https://github.com/MR-ARKO-JANA)** | `Python` `NLP` `GCP` | 🟡 In Development |
+| **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
+| **[Driver Wellness IoT](https://github.com/MR-ARKO-JANA)** | `Python` `IoT` `AI` | 🟡 In Development |
 | **[3D-Web Particle System](https://github.com/MR-ARKO-JANA/3d-web)** | `Three.js` `MediaPipe` | 🟢 Production Ready |
 
 ---
 
+### 🧠 INTELLIGENCE & CONTRIBUTIONS
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+  <!-- REPLACE WITH YOUR SUMMARY CARDS DOMAIN HERE -->
+  <img src="https://<YOUR_SUMMARY_CARDS_DOMAIN>/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+### 🏆 TECHNICAL MILESTONES
+<div align="center">
+  <!-- REPLACE WITH YOUR TROPHY DOMAIN HERE -->
+  <img src="https://<YOUR_TROPHY_DOMAIN>/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
   <br />
-  <code>v3.0.0 | Last System Sync: 2026-08-20</code>
+  <code>v2.1.0 | Last System Sync: 2026-02-14</code>
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&label=PROFILE_VIEWS&color=FF0055&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=MR-ARKO-JANA&label=ACCESS_LOG&color=7AA2F7&icon=5&pretty=true" />
 </div>
