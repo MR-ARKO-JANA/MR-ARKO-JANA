@@ -38,11 +38,6 @@
   </tr>
 </table>
 
-<!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
-<p align="center">
-  <img src="https://<YOUR_VERCEL_DOMAIN>/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
 ---
 
 <div align="center">
@@ -68,20 +63,16 @@
 
 ---
 
-### 📊 REAL-TIME SYSTEM METRICS
+### 📊 COMMAND CENTER DASHBOARD
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- REPLACE WITH YOUR VERCEL DOMAIN HERE -->
-        <img src="https://<YOUR_VERCEL_DOMAIN>/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
-      </td>
-      <td>
-        <!-- REPLACE WITH YOUR STREAK STATS DOMAIN HERE -->
-        <img src="https://<YOUR_STREAK_STATS_DOMAIN>/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
-      </td>
-    </tr>
-  </table>
+  <img src="image_c0c02b.png" width="100%" alt="Profile and Repository Stats" />
+</div>
+
+---
+
+### 🧠 INTELLIGENCE & CONTRIBUTIONS
+<div align="center">
+  <img src="image_c0c0aa.png" width="100%" alt="GitHub Contribution Graphs" />
 </div>
 
 ---
@@ -92,22 +83,6 @@
 | **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
 | **[Driver Wellness IoT](https://github.com/MR-ARKO-JANA)** | `Python` `IoT` `AI` | 🟡 In Development |
 | **[3D-Web Particle System](https://github.com/MR-ARKO-JANA/3d-web)** | `Three.js` `MediaPipe` | 🟢 Production Ready |
-
----
-
-### 🧠 INTELLIGENCE & CONTRIBUTIONS
-<div align="center">
-  <!-- REPLACE WITH YOUR SUMMARY CARDS DOMAIN HERE -->
-  <img src="https://<YOUR_SUMMARY_CARDS_DOMAIN>/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
-</div>
-
----
-
-### 🏆 TECHNICAL MILESTONES
-<div align="center">
-  <!-- REPLACE WITH YOUR TROPHY DOMAIN HERE -->
-  <img src="https://<YOUR_TROPHY_DOMAIN>/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
