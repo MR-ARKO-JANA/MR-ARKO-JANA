@@ -40,7 +40,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ARKO-JANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ARKO-JANA&theme=tokyonight" />
 </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
@@ -77,7 +77,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MR-ARKO-JANA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=tokyonight" height="180em" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
@@ -114,9 +114,9 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-### 🏆 TECHNICAL MILESTONES
+### ⏳ PRODUCTIVE TIME
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MR-ARKO-JANA&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ARKO-JANA&theme=tokyonight" />
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
