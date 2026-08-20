@@ -40,7 +40,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ARKO-JANA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ARKO-JANA&theme=synthwave" />
 </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
@@ -77,10 +77,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=tokyonight" height="180em" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=synthwave" height="180em" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=synthwave&hide_border=true&background=0D1117" height="180em" />
       </td>
     </tr>
   </table>
@@ -101,9 +101,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
-  
-  <br/><br/>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake-dark.svg">
@@ -116,13 +113,13 @@
 
 ### ⏳ PRODUCTIVE TIME
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ARKO-JANA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ARKO-JANA&theme=synthwave" />
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" width="80%" />
   <br />
   <code>v2.1.0 | Last System Sync: 2026-02-14</code>
   <br />
