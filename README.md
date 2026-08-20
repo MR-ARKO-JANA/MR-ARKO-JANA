@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARKO%20JANA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Full-Stack%20Architect&descSize=25&descAlignY=55" width="100%" />
+<img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="100%" />
 
   <br/> 
 
@@ -70,7 +70,14 @@
 
 ### 📊 REAL-TIME SYSTEM METRICS
 <div align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="860" />
+  <img src="image_c0c02b.png" width="100%" alt="Profile and Repository Stats" />
+</div>
+
+---
+
+### 🧠 INTELLIGENCE & CONTRIBUTIONS
+<div align="center">
+  <img src="image_c0c0aa.png" width="100%" alt="GitHub Contribution Graphs" />
 </div>
 
 ---
@@ -81,13 +88,6 @@
 | **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
 | **[Driver Wellness IoT](https://github.com/MR-ARKO-JANA)** | `Python` `IoT` `AI` | 🟡 In Development |
 | **[3D-Web Particle System](https://github.com/MR-ARKO-JANA/3d-web)** | `Three.js` `MediaPipe` | 🟢 Production Ready |
-
----
-
-### 🧠 INTELLIGENCE & CONTRIBUTIONS
-<div align="center">
-  <img src="image_c0c0aa.png" width="860" alt="GitHub Contribution Graphs" />
-</div>
 
 ---
 
