@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Arko%20Jana&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" width="100%" alt="Header" />
+  <br/>
   <br/> 
 
   <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
@@ -58,6 +60,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
+</div>
+
 ### 🛡️ OPERATING CAPABILITIES (TECH STACK)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,nodejs,mongodb,postgres,py,pytorch,cpp,linux,docker,aws,git&theme=dark" />
@@ -110,4 +116,8 @@
   <code>v2.1.0 | Last System Sync: 2026-02-14</code>
   <br />
   <img src="https://komarev.com/ghpvc/?username=MR-ARKO-JANA&label=ACCESS_LOG&color=7AA2F7" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" width="100%" alt="Footer" />
 </div>
