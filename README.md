@@ -77,7 +77,16 @@
 
 ### 📊 REAL-TIME SYSTEM METRICS
 <div align="center">
-  <img src="https://www.gitskins.com/api/section/profile-signal?username=MR-ARKO-JANA&theme=github-dark&style=aura" width="100%" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=synthwave" height="180em" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=synthwave&hide_border=true&background=0D1117" height="180em" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
