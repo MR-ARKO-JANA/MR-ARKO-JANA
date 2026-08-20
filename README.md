@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARKO%20JANA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Full-Stack%20Architect&descSize=25&descAlignY=55" width="100%" />
-
   <br/> 
-
   <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/ENGINEER-AI%20%26%20ML-00DFEE?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-FFB800?style=for-the-badge&logo=github&logoColor=white" />
@@ -63,16 +61,25 @@
 
 ---
 
-### 📊 COMMAND CENTER DASHBOARD
+### 📊 COMMAND CENTER DASHBOARD (GitSkins Widgets)
+<!-- GITSKINS SHOWCASE BANNER -->
 <div align="center">
-  <img src="image_c0c02b.png" width="100%" alt="Profile and Repository Stats" />
+  <img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="860" />
+</div>
+
+<!-- GITSKINS PROFILE SIGNAL & PROJECTS (Side by Side) -->
+<!-- Replace these placeholders with your other GitSkins links when ready! -->
+<div align="center">
+  <img src="https://gitskins.com/api/YOUR_PROFILE_SIGNAL_URL_HERE" width="425" alt="Profile Signal" />
+  <img src="https://gitskins.com/api/YOUR_PROJECTS_URL_HERE" width="425" alt="Projects List" />
 </div>
 
 ---
 
-### 🧠 INTELLIGENCE & CONTRIBUTIONS
+### 🧠 INTELLIGENCE & CONTRIBUTIONS (GitSkins Activity)
+<!-- GITSKINS TERMINAL & SPACE INVADERS CONTRIBUTIONS -->
 <div align="center">
-  <img src="image_c0c0aa.png" width="100%" alt="GitHub Contribution Graphs" />
+  <img src="image_c0c0aa.png" width="860" alt="GitHub Contribution Graphs" />
 </div>
 
 ---
