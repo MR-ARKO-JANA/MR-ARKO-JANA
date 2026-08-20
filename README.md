@@ -102,6 +102,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ARKO-JANA&theme=tokyonight" width="100%" />
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MR-ARKO-JANA/MR-ARKO-JANA/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
