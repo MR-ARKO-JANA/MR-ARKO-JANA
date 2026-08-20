@@ -15,6 +15,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/vgjcNYAEWSaXb1G1Hn/giphy.gif" width="120px">
+</div>
 
 <table border="0">
   <tr>
@@ -74,26 +77,15 @@
 
 ### 📊 REAL-TIME SYSTEM METRICS
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ARKO-JANA&theme=synthwave" height="180em" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ARKO-JANA&theme=synthwave&hide_border=true&background=0D1117" height="180em" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://www.gitskins.com/api/section/profile-signal?username=MR-ARKO-JANA&theme=github-dark&style=aura" width="100%" />
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ### 🏗️ RECENT DEPLOYMENTS
-| Project | Primary Stack | Status |
-| :--- | :--- | :--- |
-| **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
-| **[Driver Wellness IoT](https://github.com/MR-ARKO-JANA)** | `Python` `IoT` `AI` | 🟡 In Development |
-| **[3D-Web Particle System](https://github.com/MR-ARKO-JANA/3d-web)** | `Three.js` `MediaPipe` | 🟢 Production Ready |
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=MR-ARKO-JANA&theme=github-dark&style=aura" width="100%" />
+</div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
