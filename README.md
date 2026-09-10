@@ -57,7 +57,7 @@
 
 ---
 
-### 🛡️ OPERATING CAPABILITIES (TECH STACK)
+### 🛡️ OPERATING CAPABILITIES (TECH STACK) all is good
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,nodejs,mongodb,postgres,py,pytorch,cpp,linux,docker,aws,git&theme=dark" />
 </div>
