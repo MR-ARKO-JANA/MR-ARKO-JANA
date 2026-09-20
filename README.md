@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 REAL-TIME SYSTEM METRICS
+### 📊 REAL-TIME SYSTEM METRIC
 <div align="center">
   <table border="0">
     <tr>
