@@ -10,7 +10,7 @@
 
 ---
 
-## 🛰️ SYSTEM DIAGNOSTIC (About Me) all perfect
+## 🛰️ SYSTEM DIAGNOSTIC (About Me) all perfects
 
 <table border="0">
   <tr>
