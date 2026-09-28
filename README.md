@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=SYSTEM+DIAGNOSTIC+INIT...;Specializing+in+Scalable+Web;Mastering+Next.js+15+&+NestJS;Turning+Bugs+into+Solutions" alt="Typing SVG" />
 
-  <h1>⚡ SYSTEM ARCHITECT: ARKO JANA ⚡</h1>
+  <h1>⚡ SYSTEM ARCHITECT: ARKO JANA </h1>
   
   <p><strong>Full-Stack Engineer | AI Enthusiast | Performance Optimizer</strong></p>
 
