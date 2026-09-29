@@ -80,7 +80,7 @@
 
 ---
 
-### 🏗️ RECENT DEPLOYMENTS
+### 🏗️ RECENT DEPLOYMENT
 | Project | Primary Stack | Status |
 | :--- | :--- | :--- |
 | **[NyayaSahayak](https://github.com/MR-ARKO-JANA)** | `React` `AI` `Node.js` | 🟢 Live / Stable |
