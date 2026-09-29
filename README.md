@@ -100,7 +100,7 @@
 
 ---
 
-### ⏳ PRODUCTIVE TIMES
+### ⏳ PRODUCTIVE TIME
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ARKO-JANA&theme=tokyonight" />
 </div>
