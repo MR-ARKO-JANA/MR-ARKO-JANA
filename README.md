@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=MR-ARKO-JANA&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMR-ARKO-JANA%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="100%" />
 
-  <br/><br/>
+  <br/><br>
   
   <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-FF0055?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/ENGINEER-AI%20%26%20ML-00DFEE?style=for-the-badge&logo=pytorch&logoColor=white" />
