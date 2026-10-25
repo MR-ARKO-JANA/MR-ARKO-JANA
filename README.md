@@ -10,7 +10,7 @@
 
 ---
 
-## 🛰️ SYSTEM DIAGNOSTIC (About Me)Q
+## 🛰️ SYSTEM DIAGNOSTIC (About Me)
 
 <table border="0">
   <tr>
